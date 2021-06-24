@@ -2,7 +2,6 @@ import 'dart:async';
 import 'dart:convert';
 
 import 'package:banco/estado.dart';
-import 'package:banco/MemberPage.dart';
 import 'package:flutter/material.dart';
 import 'package:http/http.dart' as http;
  

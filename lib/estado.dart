@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 
-class AdminPage extends StatelessWidget {
+class Estado extends StatelessWidget {
 
-AdminPage({this.saldo});
+Estado({this.saldo});
 final String saldo;
 
   @override
